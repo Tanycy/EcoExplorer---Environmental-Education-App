@@ -29,24 +29,4 @@ EcoExplorer/
 ├── Assets/            # Images and icons  
 └── README.md  
 
----
 
-## 🚀 How to Run
-1. Download or clone this repository  
-2. Open the project in Visual Studio  
-3. Make sure the database file is connected  
-4. Run the application  
-
----
-
-## 🔮 Future Improvements
-- Mobile app version  
-- Cloud database integration  
-- Multi-language support  
-- AI-based recommendations  
-
----
-
-## 👩‍💻 Author
-Tan Yency  
-Bachelor of Information Technology (Hons)
