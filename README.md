@@ -1,14 +1,52 @@
-🌍 EcoExplorer - Environmental Education App
-Language Database
+# 🌍 EcoExplorer – Environmental Education App
 
-📌 Project Overview
-EcoExplorer is an interactive educational game application designed for children aged 6 to 12. Its mission is to promote environmental awareness and sustainability through engaging storytelling and gamified learning.
+## 📌 Project Overview
+EcoExplorer is an interactive educational game designed for children aged 6 to 12. The app promotes environmental awareness through fun, engaging, and gamified learning experiences.
 
-The app addresses the lack of environmental knowledge among young children by providing a fun platform to learn about recycling, ecosystems, climate change, and conservation. It features interactive comics, quizzes, and a reward system to keep users engaged.
+It helps children learn about recycling, ecosystems, climate change, and conservation using storytelling, quizzes, and rewards.
 
-📂 Project Structure
-├── EcoExplorer/             # Main Application Source Code (VB.NET)
-├── ECOEXPLORER.accdb        # Microsoft Access Database file
-├── Documentation/           # Project Report & Flowcharts
-├── Assets/                  # Images, Icons, and Comic Assets
-└── README.md                # Project Documentation
+---
+
+## 🎯 Features
+- Interactive comics for storytelling  
+- Quizzes and mini challenges  
+- Reward system with points and achievements  
+- Educational topics on sustainability  
+
+---
+
+## 🛠️ Technologies Used
+- VB.NET (Application Development)  
+- Microsoft Access (.accdb) Database  
+
+---
+
+## 📂 Project Structure
+EcoExplorer/
+├── EcoExplorer/        # Main Application Source Code (VB.NET)  
+├── ECOEXPLORER.accdb  # Database file  
+├── Documentation/     # Project report and flowcharts  
+├── Assets/            # Images and icons  
+└── README.md  
+
+---
+
+## 🚀 How to Run
+1. Download or clone this repository  
+2. Open the project in Visual Studio  
+3. Make sure the database file is connected  
+4. Run the application  
+
+---
+
+## 🔮 Future Improvements
+- Mobile app version  
+- Cloud database integration  
+- Multi-language support  
+- AI-based recommendations  
+
+---
+
+## 👩‍💻 Author
+Tan Yency  
+Bachelor of Information Technology (Hons)
